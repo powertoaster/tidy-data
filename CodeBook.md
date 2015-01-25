@@ -11,6 +11,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 I use the following files from provided data in my script.
 
+And I have a code block at the beginning that checks for the existance of the download data before continuing.
+
 test/X_test.txt
 test/y_test.txt
 test/subject_test.txt
